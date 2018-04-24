@@ -6,7 +6,7 @@
   <artifactId>mtsjs</artifactId>
   <packaging>jar</packaging>
   <name>${project.artifactId}</name>
-  <description>Application based on the Open Application Standard Platform for Javascript (OASP4JS).</description>
+  <description>Application based on the Open Application Standard Platform for Javascript(OASP4JS).</description>
 
   <parent>
     <groupId>io.oasp.application</groupId>
